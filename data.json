@@ -1,27 +1,8 @@
 [
-    {
-        "id": 1,
-        "name": "Запись 1",
-        "value": "Данные 1"
-    },
-    {
-        "id": 2,
-        "name": "Запись 2",
-        "value": "Данные 2"
-    },
-    {
-        "id": 3,
-        "name": "Запись 3",
-        "value": "Данные 3"
-    },
-    {
-        "id": 4,
-        "name": "Запись 4",
-        "value": "Данные 4"
-    },
-    {
-        "id": 5,
-        "name": "Запись 5",
-        "value": "Данные 5"
-    }
+    {"id": 1, "name": "Роза", "latin_name": "Rosa", "is_red_book_flower": false, "price": 300},
+    {"id": 2, "name": "Орхидея", "latin_name": "Orchidaceae", "is_red_book_flower": true, "price": 1500},
+    {"id": 3, "name": "Лилия", "latin_name": "Lilium", "is_red_book_flower": false, "price": 400},
+    {"id": 4, "name": "Тюльпан", "latin_name": "Tulipa", "is_red_book_flower": false, "price": 200},
+    {"id": 5, "name": "Пион", "latin_name": "Paeonia", "is_red_book_flower": true, "price": 800}
 ]
+
